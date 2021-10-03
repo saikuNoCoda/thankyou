@@ -1,1 +1,1 @@
-WebLink - https://failedcoder12.github.io/thankyou/
+Website link - https://saikunocoda.github.io/thankyou/
